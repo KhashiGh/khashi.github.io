@@ -14,7 +14,7 @@ excerpt: "PhD Candidate in Applied Economics at the University of Illinois Urban
 
 ---
 
-![My Photo](/assets/images/IMG_0815_2.jpg){: .align-center .avatar } 
+![My Photo](/assets/images/avatar00.jpg){: .align-center .avatar } 
 
 About Me
 
