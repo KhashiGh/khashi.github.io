@@ -9,13 +9,16 @@ permalink: /research/
 
 ### Working Papers
 Ghorbani, K., Atallah, S. (2024) “Climate-change impacts mediated by crop diseases: The case of coffee leaf rust”., American Journal of Agricultural Economics (AJAE). (Revision and resubmit)
-“This study quantifies the direct and indirect effects of climate change on coffee production, emphasizing the role of coffee leaf rust in shaping economic outcomes. Using a bioeconomic model, it highlights the differential adaptation priorities for coffee farms at high and low altitudes and identifies climate-adjusted price premiums to sustain shade-grown coffee systems.”
+
+This study quantifies the direct and indirect effects of climate change on coffee production, emphasizing the role of coffee leaf rust in shaping economic outcomes. Using a bioeconomic model, it highlights the differential adaptation priorities for coffee farms at high and low altitudes and identifies climate-adjusted price premiums to sustain shade-grown coffee systems.
 
 Ghorbani, K., Atallah, S. (2024) “Strategic Responses to Ban Enforcement Uncertainty: Antibiotic Application Decisions in Plant Agriculture”., European Review of Agricultural Economics (ERAE). (Revision and resubmit)
-“This study develops a dynamic model to examine optimal antibiotic use in plant agriculture under uncertain ban enforcement, revealing that proactive growers overexploit antibiotic efficacy to gain an advantage over business-as-usual growers. The analysis highlights the nonlinear relationship between resource value and regulatory uncertainty, proposing a policy instrument to compensate proactive growers if anticipated bans do not materialize.”
+
+This study develops a dynamic model to examine optimal antibiotic use in plant agriculture under uncertain ban enforcement, revealing that proactive growers overexploit antibiotic efficacy to gain an advantage over business-as-usual growers. The analysis highlights the nonlinear relationship between resource value and regulatory uncertainty, proposing a policy instrument to compensate proactive growers if anticipated bans do not materialize.
 
 Ghorbani, K., Atallah, S., Gallardo, K., (2024) “Growers’ Willingness to Adopt Non-Antibiotic Disease Management Strategies to Cope with Antibiotic Resistance”
-“This study employs a discrete choice experiment to assess apple growers’ preferences for non-antibiotic disease management strategies amid rising concerns over antibiotic resistance. Findings reveal that long-term effectiveness, peer adoption, and information dissemination significantly influence growers' willingness to invest in sustainable alternatives, highlighting the need for targeted incentives and collective action in resistance management.”
+
+This study employs a discrete choice experiment to assess apple growers’ preferences for non-antibiotic disease management strategies amid rising concerns over antibiotic resistance. Findings reveal that long-term effectiveness, peer adoption, and information dissemination significantly influence growers' willingness to invest in sustainable alternatives, highlighting the need for targeted incentives and collective action in resistance management.
 
 Ghorbani, K., Atallah, S., Gallardo, K., (2024) “From Detection to Recovery: An Economic Perspective on Managing Infectious Disease in Orchards”
 “This study develops a spatial bioeconomic model to evaluate optimal tree removal and replanting strategies for managing Western X-Disease in cherry orchards. This paper discusses under what condition, proactive disease management, including testing and strategic replanting, mitigates economic losses and enhances long-term orchard profitability.”
