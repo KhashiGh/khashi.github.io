@@ -12,4 +12,4 @@ header:
       url: "/files/JMP_Kashi.pdf"
 excerpt: "PhD Candidate in Applied Economics at the University of Memphis"
 ---
-Welcome to my academic website. I am a PhD Candidate in Applied Economics at the University of Memphis.
+Welcome to my academic website. I am a PhD Candidate in Applied Economics at the University of Illinois Urbana-Champaign.
