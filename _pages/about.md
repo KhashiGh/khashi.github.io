@@ -5,4 +5,4 @@ permalink: /about/
 ---
 I am a PhD Candidate in Applied Economics at the University of Illinois Urbana-Champaign. My research focuses on production decision under uncertainty, economics of disease management, and technology adoption in agriculture.
 
-![My Photo](/assets/images/IMG_0815_2.jpg)
+![My Photo](/assets/images/IMG_0815_2_not.jpg)
