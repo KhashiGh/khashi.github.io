@@ -29,3 +29,8 @@ author:
     - label: "Google Scholar"
       icon: "ai ai-google-scholar"
       url: "https://scholar.google.com"
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
