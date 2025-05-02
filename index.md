@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Khashi Ghorbani"
+title: ""
 header:
   overlay_color: "#5e616c"
   overlay_filter: "0.3"
@@ -9,14 +9,12 @@ header:
     - label: "Download CV"
       url: "/files/Khashi Ghorbani-CV-26.pdf"
     - label: "Job Market Paper"
-      url: "/files/Khashi Ghorbani-CV-26.pdf"
+      url: ""
 excerpt: "PhD Candidate in Applied Economics at the University of Illinois Urbana-Champaign"
 
 ---
 
 ![My Photo](/assets/images/Avatar00.jpg){: .avatar } 
-
-About Me
 
 I am a PhD Candidate in Applied Economics at the University of Illinois Urbana-Champaign. My research focuses on production decision under uncertainty, economics of disease management, and technology adoption in agriculture.
 
@@ -32,7 +30,7 @@ Ghorbani, K., Atallah, S., Gallardo, K., (2024) “Growers’ Willingness to Ado
 
 Ghorbani, K., Atallah, S., Gallardo, K., (2024) “From Detection to Recovery: An Economic Perspective on Managing Infectious Disease in Orchards”
 
-Ghorbani, K., Atallah, S., Gallardo, K., Tianna Dupont., (2024)
+Ghorbani, K., Atallah, S., Gallardo, K., Tianna Dupont., (2024) “Return on Investment in Alternative Fire Blight Management Strategies: Evidence from Field Trials in Washington State”
 
 Winfree, J., Atallah, S., Gallardo, K., Ghorbani, K. (2024) “The Economic Effects of Persistent Plant Diseases: The Case of Fire blight”
 
