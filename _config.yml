@@ -1,5 +1,5 @@
 
-title: "Andisheh Kashi"
+title: "Khashi Ghorbani"
 description: "PhD Candidate in Applied Economics"
 url: "https://yourusername.github.io"
 baseurl: ""
@@ -12,10 +12,10 @@ plugins:
   - jekyll-seo-tag
 
 author:
-  name   : "Andisheh Kashi"
+  name   : "Khashi Ghorbani"
   avatar : "/assets/images/photo.jpg"
   bio    : "PhD Candidate in Applied Economics"
-  location: "University of Memphis"
+  location: "University of Illinois Urbana-Champaign"
   links:
     - label: "Email"
       icon: "fas fa-envelope"
