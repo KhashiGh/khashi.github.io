@@ -12,9 +12,10 @@ header:
       url: "/files/Khashi Ghorbani-CV-26.pdf"
 excerpt: "PhD Candidate in Applied Economics at the University of Illinois Urbana-Champaign"
 
+---
+
 ![My Photo](/assets/images/IMG_0815_2.jpg){: .align-center .avatar } 
 
----
 About Me
 
 I am a PhD Candidate in Applied Economics at the University of Illinois Urbana-Champaign. My research focuses on production decision under uncertainty, economics of disease management, and technology adoption in agriculture.
