@@ -3,4 +3,4 @@ layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
 ---
-[Download CV](files/Kashi_CV.pdf)
+[Download CV](files/files/Khashi Ghorbani-CV-26.pdf)
