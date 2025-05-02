@@ -9,7 +9,7 @@ header:
     - label: "Download CV"
       url: "/files/Khashi Ghorbani-CV-26.pdf"
     - label: "Job Market Paper"
-      url: "/files/JMP_Kashi.pdf"
+      url: "/files/Khashi Ghorbani-CV-26.pdf"
 excerpt: "PhD Candidate in Applied Economics at the University of Illinois Urbana-Champaign"
 ---
 About Me
