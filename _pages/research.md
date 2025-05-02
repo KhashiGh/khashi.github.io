@@ -8,6 +8,8 @@ permalink: /research/
 - [Download PDF](files/JMP_Kashi.pdf)
 
 ### Working Papers
+Ghorbani, K., Atallah, S., Gallardo, K., (2024) “Commentary on Extension Programming: An Online Platform for Area-Wide Management of Western X-Disease Extension Program”., Applied Economics Teaching Resources (AETR). (Accepted)
+
 Ghorbani, K., Atallah, S. (2024) “Climate-change impacts mediated by crop diseases: The case of coffee leaf rust”., American Journal of Agricultural Economics (AJAE). (Revision and resubmit)
 
 Ghorbani, K., Atallah, S. (2024) “Strategic Responses to Ban Enforcement Uncertainty: Antibiotic Application Decisions in Plant Agriculture”., European Review of Agricultural Economics (ERAE). (Revision and resubmit)
