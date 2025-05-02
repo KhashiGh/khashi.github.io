@@ -1,3 +1,3 @@
 # Khashi Ghorbani – Academic Website
 
-Welcome to my personal website. Visit it here: [https://Khashi.github.io](https://Khashi.github.io)
+Welcome to my personal website. Visit it here: [https://Khashigh.github.io](https://Khashigh.github.io)
